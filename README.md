@@ -2,4 +2,4 @@
 Kumpulan Catatan Sejarah Peradaban Islam
 ## Sejarah Islam
 
-- [Khulafa Ar-Rasyidin](islam/khulafa-ar-rasyidin.md)
+- [Khulafa Ar-Rasyidin](sejarah-islam/Khulafa Ar-rasyidin.md)
